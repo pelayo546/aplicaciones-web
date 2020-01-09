@@ -1,6 +1,6 @@
-##Instalar en ubuntu18.04 un Apache
+## Instalar en ubuntu18.04 un Apache
 
-##introducción  servidor apache
+## introducción  servidor apache
 
 $sudo apt install apache2
 
